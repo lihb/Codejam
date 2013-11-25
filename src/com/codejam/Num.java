@@ -1,4 +1,10 @@
 package com.codejam;
+/**
+ * 辅助类，为A.java服务。
+ * 
+ * 
+ * 
+ * */
 
 public class Num {
 	 
