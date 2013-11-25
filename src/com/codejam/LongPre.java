@@ -1,5 +1,9 @@
 package com.codejam;
-
+/**
+ * 字符串A连续包含字符串B字符的最大值
+ * 
+ * 
+ * */
 
 public class LongPre {
 
