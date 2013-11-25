@@ -1,5 +1,9 @@
 package com.codejam;
-
+/**
+ * RSorting
+ * 详见——————https://code.google.com/codejam/contest/2924486/dashboard#s=p2
+ * 
+ * */
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
