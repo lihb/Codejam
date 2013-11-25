@@ -1,5 +1,8 @@
 package com.codejam;
-
+/**
+ * 求一个字符串的最长回文字串
+ * 
+ * */
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
