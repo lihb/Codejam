@@ -1,7 +1,7 @@
 package com.codejam;
 /**
- * Read Phone Number
- * 详见——————https://code.google.com/codejam/contest/2924486/dashboard
+ * Rational Number Tree
+ * 详见——————https://code.google.com/codejam/contest/2924486/dashboard#s=p1
  * 
  * */
 
