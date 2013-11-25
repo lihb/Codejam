@@ -1,5 +1,9 @@
 package com.codejam;
-
+/**
+ * Read Phone Number
+ * 详见——————https://code.google.com/codejam/contest/2924486/dashboard
+ * 
+ * */
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -24,7 +28,7 @@ public class A {
 		BufferedReader br = new BufferedReader(new InputStreamReader(in));
 		System.setOut(new PrintStream(new File("d:\\programDATA\\phoneNumber\\A-large-practice.out")));
 		
-		char ch = '��';
+		char ch = '��';
 		System.out.println(ch);
 		
 		int T = Integer.parseInt(br.readLine());
@@ -73,7 +77,7 @@ public class A {
 					}
 						
 					else
-						System.out.printf("%s %s ",succ[count],num[ch-'0']);  // ��ӡǰ����ֵ���ͬԪ�صĸ���
+						System.out.printf("%s %s ",succ[count],num[ch-'0']);  // ��ӡǰ�����ֵ���ͬԪ�صĸ���
 					ch = out[i].charAt(j);
 					count = 1;
 				}
