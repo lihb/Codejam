@@ -28,8 +28,6 @@ public class A {
 		BufferedReader br = new BufferedReader(new InputStreamReader(in));
 		System.setOut(new PrintStream(new File("d:\\programDATA\\phoneNumber\\A-large-practice.out")));
 		
-		char ch = '��';
-		System.out.println(ch);
 		
 		int T = Integer.parseInt(br.readLine());
 		for (int curr = 1; curr <= T; curr++) {
