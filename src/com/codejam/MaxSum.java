@@ -1,4 +1,8 @@
 package com.codejam;
+/**
+ * 最大连续子数组
+ * 
+ * */
 
 public class MaxSum {
 
